@@ -6,3 +6,5 @@ cartao.className = 'cartao'
 cartao. innerHTML = `
 <div class="cartao_conteudo">
 <h3>${categoria}</h3>
+<div class="cartao_conteudo_pergunta">
+    <p>
