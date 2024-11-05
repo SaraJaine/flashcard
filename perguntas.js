@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'As ilhas de calor representam um dos problemas ambientais urbanos. Esse fenômeno climático acontece devido?',
+    'a elevação das temperaturas em algumas zonas urbanas.'
 )
 
 criaCartao(
