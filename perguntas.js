@@ -17,19 +17,19 @@ criaCartao(
 )
  
 criaCartao(
-    'Lingua inglesa',
-    'São exemplos de causa de mutação?',
-    ' exposição a radiação, substâncias químicas e erros durante a replicação do DNA'
+    'Geografia',
+    'A Caatinga ocupa uma grande área da região Nordeste do país. Sobre as principais características do bioma é INCORRETO afirmar que?',
+    'O bioma passa por curtos períodos de seca e, por isso, sua vegetação perde as folhas, os galhos tornam-se esbranquiçados e muitas plantas apresentam espinhos;'
 )
  
 criaCartao(
-    'Biologia',
-    'Quem é considerado o pai da genética?',
-    'Gregor Mendel'
+    'Geografia',
+    'O território brasileiro possui diversos biomas, entre os quais destacam-se a Floresta Amazônica, o Cerrado e a Mata Atlântica. Sobre esses biomas, é CORRETO afirmar:?',
+    'Uma característica comum entre esses três biomas é que todos apresentam elevada biodiversidade e presença de espécies endêmicas, evidenciando que todos precisam ser igualmente preservados.'
 )
  
 criaCartao(
-    'Matemática',
-    'Qual é o valor de Pi?',
-    '3,14'
+    'Geografia',
+    'O desmatamento na Amazônia tem crescido exponencialmente a partir da década de 70. As principais causas são:?',
+    'atividade madeireira e incêndios'
 )
