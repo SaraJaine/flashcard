@@ -24,11 +24,12 @@ criaCartao(
  
 criaCartao(
     'Geografia',
-    ' O território brasileiro possui diversos biomas, entre os quais destacam-se a Floresta Amazônica, o Cerrado e a Mata Atlântica. Sobre esses biomas, é CORRETO afirmar:',
-    'Uma característica comum entre esses três biomas é que todos apresentam elevada biodiversidade e presença de espécies endêmicas, evidenciando que todos precisam ser território brasileiro possui diversos biomas, entre os quais destacam-se a Floresta Amazônica, o Cerrado e a Mata Atlântica. Sobre esses biomas, é CORRETO afirmar:?', igualmente preservados.'
+    'As ilhas de calor representam um dos problemas ambientais urbanos. Esse fenômeno climático acontece devido',
+    'a elevação das temperaturas em algumas zonas urbanas.
 )
  
 criaCartao(
     'Histódria',
     'Qual foi o médico envolvido na questão da vacinação obrigatória na Revolta da Vacina?',
     'Oswaldo Cruz'
+)
