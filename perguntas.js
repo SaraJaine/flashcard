@@ -1,25 +1,25 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Biologia',
+    'Qual é a principal diferença entre a primeira e a segunda lei de Mendel?',
+    'Na primeira verifica-se a expressão de apenas uma característica (monoibridismo), na segunda duas ou mais (diibridísmo)'
 )
  
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Biologia',
+    'A Segunda Lei de Mendel é sempre obedecida no processo de produção de características físicas?',
+    'Não! Quando os genes estão presentes no mesmo cromossomo ocorre por Linkage'
 )
  
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'As síndromes de Down, Turner, Patau, Edwards e de Klinefelter são mutações conhecidas por?',
+    'aneuploidias'
 )
  
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é Hi (RAI)'
+    'São exemplos de causa de mutação?',
+    ' exposição a radiação, substâncias químicas e erros durante a replicação do DNA'
 )
  
 criaCartao(
