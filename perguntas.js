@@ -1,35 +1,33 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Biologia',
+    'Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?',
+    'Tem entre 4 a 6 litros. São retirados 450 mililitros'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quais o menor e o maior país do mundo?' ,
+    'Vaticano e Rússia'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'Qual o nome do presidente do Brasil que ficou conhecido como Jango?',
+    'João Goulart'
 )
 
+criaCartao (
+    'Matemática',
+    'Quantas casas decimais tem o número pi?',
+    'Infinitas'
+)
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Física',
+    'Qual a velocidade da luz?',
+    '299 792 458 metros por segundo (m/s)'
 )
-
-criaCartao(
-    'Biologia',
-    'Quem é considerado o pai da genética?',
-    'Gregor Mendel'
-)
-
 criaCartao(
     'Matemática',
-    'Qual é o valor de Pi?',
-    '3,14'
+    'Quem pintou "Guernica"?',
+    'Pablo Picasso'
 )
