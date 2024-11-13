@@ -27,7 +27,7 @@ criaCartao(
     '299 792 458 metros por segundo (m/s)'
 )
 criaCartao(
-    'Matemática',
+    'Artes',
     'Quem pintou "Guernica"?',
     'Pablo Picasso'
 )
